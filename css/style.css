@@ -1,0 +1,23 @@
+h1{color: blue; 
+	border: red 4px dotted; 
+	background-color: black;
+	}
+
+.head1{color: red;
+	background-color: yellow;
+	border color: black 5px;
+	}
+div{
+
+    text-align: center;
+    background: black;
+    color: white;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 8px;
+}
+
+body{
+	background: wheat;
+}
